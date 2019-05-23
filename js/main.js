@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["花姐", "前端", "后端", "全栈.", "爱媳妇儿"],
+      strings: ["伟哥哥", "前端", "后端", "全栈.", "爱媳妇儿"],
       typeSpeed: 100,
       loop: true,
     });
